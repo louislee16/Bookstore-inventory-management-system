@@ -1,0 +1,24 @@
+Book Name                                                   	ISBN Number   	Author                      	Edition	Year	Quantity	
+C++ How To Program                                           	9789834331337	Paul J. Deitel              	10   	2016	8   
+Learning Java Functional Programming                         	9781783558483	Richard M Reese             	1    	2015	12 	
+Introduction To Algorithms                                    	9780262033848	Thomas H. Cormen            	3    	2009	6  	
+SFML Game Development By Example                             	9781785287343	Raimondas Pupius              	1    	2016	10 	
+The Environment in the Age of the Internet                   	9781783742431	Heike Graf                  	1    	2016	5  	
+Chemistry                                                     	9780133891782	John E. McMurry              	7    	2015	4  	
+Web Design with HTML, CSS, JavaScript and jQuery Set          	9781118907443	Jon Duckett                  	1    	2014	3  	
+Python for Everybody : Exploring Data in Python 3             	9781530051120	Dr Charles Russell S.         	1    	2016	5  	
+Code Complete                                                 	9780735619678	Steve McConnell               	2    	2004	7  	
+Harry Potter and the Philosopher's Stone                    	9781408845653	J. K. Rowling                	1    	2016	5  	
+Harry Potter and the Chamber of Secrets                      	9781408845646	J. K. Rowling                 	1    	2015	10  
+Harry Potter and the Prisoner of Azkaban                      	9781408845660	J. K. Rowling                  	1    	2017	6   
+Yoga Anatomy                                                 	9781450400244	Leslie Kaminoff               	1    	2011	9   
+New Body Plan : Your Total Body Transformation Guide         	9781999872816	Jon Lipsey                   	1    	2018	9   
+David Beckham: My Side                                       	9780007157334	David Beckham                	1    	2004	4   
+Pele: The Autobiography                                      	9781416511212	Pele                         	1    	2007	3   
+The Keeper : A Life of Saving Goals and Achieving Them        	9780062387370	Tim Howard                  	1    	2015	4   
+Book of Basketball : The NBA According to the Sports Guy      	9780345520104	Bill Simmons                	1    	2010	9   
+Michael Jordan : The Life                                     	9780316194761	Roland Lazenby              	1    	2015	10  
+Trump: The Art of the Deal                                    	9780399594496	Donald J Trump              	1    	2016	7   
+Industry 4.0 : The Industrial Internet of Things              	9781484220467	Alasdair Gilchrist          	1    	2016	2   
+Japan by Rail : Includes Rail Route Guide and 30 City G.     	9781905864751	Ramsey Zarifeh              	1    	2016	3   
+Effective Java                                               	9780134685991	Joshua Bloch                	1    	2018	11  
